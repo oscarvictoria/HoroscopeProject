@@ -38,8 +38,9 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tHm-mq-dQf">
-                                <rect key="frame" x="188.5" y="549" width="37" height="30"/>
-                                <state key="normal" title="Enter"/>
+                                <rect key="frame" x="184.5" y="549" width="45" height="38"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                                <state key="normal" title="Save"/>
                                 <connections>
                                     <action selector="enter:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yYJ-Oe-YyE"/>
                                 </connections>
